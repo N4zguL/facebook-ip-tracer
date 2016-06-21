@@ -7,7 +7,7 @@ ENjoy tHis beAutY
 
 ## Installation ##
 
-git clone (github link)
+git clone https://github.com/N4zguL/facebook-ip-tracer.git
 
 cd facebook-ip-tracer
 
